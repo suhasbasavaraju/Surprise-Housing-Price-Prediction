@@ -33,3 +33,5 @@ Homes with typical functionality (Functional_Typ) see price increments ranging f
 
 ##### Brick Face Exterior: 
 Houses with Brick Face exteriors (Exterior1st_BrkFace) tend to have prices approximately 1.08 times higher.
+
+##### Please note that detailed insights obtained at each stage of the variable analysis have been thoughtfully documented as comments within the Jupyter Notebook for reference and transparency.
