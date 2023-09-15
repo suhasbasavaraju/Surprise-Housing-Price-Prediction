@@ -2,14 +2,19 @@
 
 This repository contains a case study for Surprise Housing, a US-based housing company venturing into the Australian market. The project involves building a regression model with regularization techniques to predict house prices, identify significant variables, and optimize lambda values for ridge and lasso regression. The model assists management in making informed investment decisions and understanding pricing dynamics in a new market.
 
-#### The following procedures were executed to derive the meaningfull patterns and trends in the data and further predict the house pricing based on the potential variables. 
+#### Workflow Highlights
 
-1. Data Reading and Understanding 
-2. EDA 
-3. Feature Engineering
-4. Preprocessing 
-5. Model Building - Ridge and Lasso 
-6. Model Evaluation - Comparing 2 models
+1. Data Exploration and Understanding: Comprehensive examination of the dataset to grasp its intricacies.
+
+2. Data Cleaning: Rigorous data cleansing procedures to ensure data quality and reliability.
+
+3. Feature Engineering: Crafting relevant features to enhance model performance.
+
+4. Data Preparation: Structuring and preprocessing the data for predictive modeling.
+
+5. Model Development and Evaluation: Building predictive models and assessing their effectiveness.
+
+6. Final Model Selection: Determining the most suitable model for churn prediction.
 
 ## Key Findings:
 
