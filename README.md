@@ -2,7 +2,7 @@
 
 This repository contains a case study for Surprise Housing, a US-based housing company venturing into the Australian market. The project involves building a regression model with regularization techniques to predict house prices, identify significant variables, and optimize lambda values for ridge and lasso regression. The model assists management in making informed investment decisions and understanding pricing dynamics in a new market.
 
-#### Workflow Highlights
+### Workflow Highlights
 
 1. Data Exploration and Understanding: Comprehensive examination of the dataset to grasp its intricacies.
 
@@ -16,7 +16,7 @@ This repository contains a case study for Surprise Housing, a US-based housing c
 
 6. Final Model Selection: Determining the most suitable model for churn prediction.
 
-## Key Findings:
+### Key Findings:
 
 ##### 1. Property Size Impact: 
 An increase of 1 square foot in above-ground living area (GrLivArea) results in a price increase of approximately 1.19 to 1.47 times.
